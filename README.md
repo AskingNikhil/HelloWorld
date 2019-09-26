@@ -2,12 +2,12 @@
 My first project for learning GitHub.
 
 This is going great.
-Am loving Git.
+I am loving Git.
 
-Am Nikhil Agarwal and am learning to Git.
+I am Nikhil Agarwal and am learning to Git.
 
 Day 2:
-A course on Git helps to sort few thngs.
+A course on Git helps to sort few things.
 
 Day 3:
-Github and open source computing is really efective.. I will soon be starting to work on a live project on GitHub.
+Github and open source computing is really effective.. I will soon be starting to work on a live project on GitHub.
